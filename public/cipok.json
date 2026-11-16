@@ -1,0 +1,38 @@
+{
+    "cipok":[
+        {
+            "nev": "Adidas Jolt",
+            "meret": 32,
+            "raktaron": true,
+            "megjelenes": "2022-02-11"
+
+        },
+        {
+            "nev": "Puma Black Panther",
+            "meret": 34,
+            "raktaron": false,
+            "megjelenes": "2025-11-03"
+
+        },
+        {
+            "nev": "Nike Full Name Nichael",
+            "meret": 41,
+            "raktaron": true,
+            "megjelenes": "2023-04-16"
+
+        },
+        {
+            "nev": "Adidas Zap",
+            "meret": 28,
+            "raktaron": false,
+            "megjelenes": "2026-10-30"
+
+        },
+        {
+            "nev": "Sketchers Stretchers",
+            "meret": 39,
+            "raktaron": false,
+            "megjelenes": "2023-07-21"
+        }
+    ]
+}
