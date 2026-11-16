@@ -17,7 +17,8 @@ function App() {
         console.log(error)
       }
     }
-  })
+    fetchCipos()
+  },[])
   return (
     <>
       
